@@ -13,10 +13,13 @@
   font-family: simplifica;
   src: url(sansation_light.woff);
 }
+
 h1 {
   letter-spacing: 7px;
+  font-family: simplifica
 }
 h2 {letter-spacing: 2px}
+h2 {font-family: simplifica}
 body {background-color: #F5FFFA}
 sup, sub {
   vertical-align: baseline;
@@ -26,3 +29,4 @@ sup, sub {
 sub { 
   top: 0.4em; 
 }
+p {font-family: cambria}
