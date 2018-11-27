@@ -9,3 +9,12 @@
   display: table;
   clear: both;
 }
+@font-face {
+  font-family: simplifica;
+  src: url(sansation_light.woff);
+}
+h1 {
+  letter-spacing: 7px;
+}
+h2 {letter-spacing: 2px}
+body {background-color: #F5FFFA}
