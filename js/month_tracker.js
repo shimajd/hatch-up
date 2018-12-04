@@ -14,7 +14,7 @@ $(document).ready(function () {
              "It's the eleventh month!",
              "It's the twelfth month!"]
 
-  $('#' + month).attr('id', 'month');
+  $('#' + month).attr('id', 'this_month');
   $("#message").text(msg[month]);
 
 });
