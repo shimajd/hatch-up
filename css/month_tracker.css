@@ -29,7 +29,7 @@ body {
   color: #f39c12;
 }
 
-#today {
+#this_month {
   height: 300px;
   background-color: #ffb6e1;
 
@@ -37,7 +37,7 @@ body {
 
 }
 
-#today .day {
+#this_month .month {
   font-size: 38px;
   font-weight: bold;
   color: #f1f9;
